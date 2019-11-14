@@ -3,3 +3,6 @@ def hi():
 
 def f():
     return 43
+
+def tg():
+    return 32
