@@ -3,3 +3,6 @@ def hi():
 
 def e():
     return 45
+
+def h():
+    return 43
