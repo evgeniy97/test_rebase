@@ -6,3 +6,6 @@ def a():
 
 def b():
     return 32
+
+def e():
+    return 4902
