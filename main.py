@@ -9,3 +9,5 @@ def b():
 
 def e():
     return 4902
+def c():
+    return 567
